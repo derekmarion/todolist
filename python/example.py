@@ -18,8 +18,6 @@ def main():
     
     return print('Program Exited.')
     
-    
-
 def display_menu():
     return input('\n1: Show To-Do List\n2: Add Item\n3. Remove Item\n4. Quit\n\nEnter selection: ')
 
