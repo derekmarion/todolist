@@ -1,0 +1,22 @@
+{
+    "todoList": [
+      {
+        "task": "Buy groceries",
+        "priority": "High",
+        "dueDate": "2023-10-10",
+        "completed": false
+      },
+      {
+        "task": "Finish project report",
+        "priority": "Medium",
+        "dueDate": "2023-10-15",
+        "completed": false
+      },
+      {
+        "task": "Go to the gym",
+        "priority": "Low",
+        "dueDate": null,
+        "completed": true
+      }
+    ]
+  }
